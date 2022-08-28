@@ -1,0 +1,115 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+#a{
+    text-decoration: none;
+    color:rgb(109, 66, 11);
+    font-weight: 900;
+    font-size:35px;
+}
+#a:hover{
+    color:rgb(121, 77, 20);
+}
+.navbar{
+    background-color: rgb(255, 255, 255);
+
+}
+#a1{
+    text-decoration: none;
+    color:rgb(99, 73, 1);
+    font-weight: 500;
+    font-size:xx-large;
+    align-items: center;
+    border:none;
+    background-color:rgb(255, 255, 255);
+}
+#a1 a{
+    text-decoration: none; 
+    color:rgb(99, 73, 1);
+
+}
+#a1:hover{
+    color:rgb(121, 77, 20);
+}
+
+#l{
+    margin-left:40px;
+    
+}
+.btn-primary{
+    background-color: rgb(255, 202, 133);
+    border-color: antiquewhite;
+    font-weight:1000;
+    padding:10px;
+    width:100px;
+}
+.btn-primary:hover{
+    background-color:rgb(253, 177, 78);
+    border-color: antiquewhite;
+}
+b{
+    font-size:22px;
+    color:rgb(109, 66, 11);
+}
+label{
+    color:rgb(121, 77, 20);
+}
+#b1{
+    background-color: rgb(255, 202, 133);
+    border-color: antiquewhite;
+    font-weight:1000;
+    padding:10px;
+    width:200px;
+}
+#b1:hover{
+    background-color:  rgb(253, 177, 78);
+    border-color: antiquewhite;
+}
+.card {
+  border: 0;
+  border-radius: 0;
+  color: rgb(3, 3, 3);
+  box-shadow: 5px 5px 10px #e1e1e1;
+  padding: 3em 0;
+  border-bottom-right-radius: 4em;
+  border-top-left-radius: 4em;
+  background-size: 200%;
+  background-position: right;
+}
+thead{
+    font-size: x-large;
+    color:rgb(109, 66, 11);
+    background-color:rgb(241, 213, 177);
+}
+
+table, tr, td {
+    border-collapse: collapse;
+    border:1px solid rgb(109, 66, 11);
+    border-color:rgb(109, 66, 11);
+    
+  }
+#b2{
+    background-color: rgb(255, 140, 140);
+    border-color: antiquewhite;
+    color:rgb(77, 0, 0);
+    font-weight:1000;
+    padding:10px;
+    width:200px;
+  }
+  #b3{
+    background-color: rgb(141, 219, 161);
+    border-color: antiquewhite;
+    color:rgb(5, 110, 19);
+    font-weight:1000;
+    padding:10px;
+    width:200px;
+  }
+  #b4{
+    background-color: rgb(255, 140, 140);
+    border-color: antiquewhite;
+    color:rgb(141, 24, 24);
+    font-weight:1000;
+    padding:10px;
+    width:200px;
+  }
