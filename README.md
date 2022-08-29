@@ -12,11 +12,11 @@ Admin can :
 
 ID & PASSWORD:
 officer 1 :
-Id:Akil.j.arsath@gmail.com
+Id:akil.j.arsath@gmail.com
 Password: ak
 
 officer 2 :
-Id:Akil@student.tce.edu
+Id:akil@student.tce.edu
 Password: b
 
 officer 3 :
