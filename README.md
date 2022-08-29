@@ -1,14 +1,14 @@
 # hostelmanagement-webnd-ssa
 
 USER can :
-Login,logout and register
-Edit their profile details
-Make and view the status of the complaint
+1.Login,logout and register
+2.Edit their profile details
+3.Make complaint and view the status of the complaint
 
 Admin can :
-Login,logout 
-Accept,reject and escalate the complaint
-Find the complaints by searching.
+1.Login,logout 
+2.Accept,reject and escalate the complaint
+3.Find the complaints by searching.
 
 ID & PASSWORD:
 officer 1 :
